@@ -52,4 +52,4 @@ Open `Retail-Analytics-Dashboard.twbx` in **Tableau Public** or Desktop.
 ## 👤 Author
 
 Aaryan  
-[LinkedIn](https://Linkedin/in/anarray) | [GitHub](https://Github/An-Array)
+[LinkedIn](https://linkedin.com/in/anarray) | [GitHub](https://github.com/An-Array)
