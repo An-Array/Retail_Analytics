@@ -30,7 +30,7 @@ Analyzed the **Superstore** dataset using **Tableau**. Dashboard provides insigh
 
 | Category Sales | Regional Map |
 |---|---|
-| ![Category](images/category_sales.png) | ![Region](images/region_map.png) |
+| ![Category](images/categpry_sales.png) | ![Region](images/region_map.png) |
 
 ---
 
